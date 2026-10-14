@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+.vscode/
+*.log
+config/database.local.php
