@@ -1,4 +1,4 @@
-🔐 Full Stack Login System
+🔐 Full Stack Login System (Em Desenvolvimento)
 
 Sistema de autenticação e gerenciamento de acesso desenvolvido com PHP, MySQL, JavaScript, HTML5 e CSS3.
 
